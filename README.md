@@ -12,8 +12,6 @@ Activities
 - [Activity 5 - Mobile Phone Record](Activity5)
 
 
----
-
 Final Reflection
 
 61. Which Module 2 topic was easiest for you, and why?
